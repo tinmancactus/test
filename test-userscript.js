@@ -8,3 +8,6 @@
 // @require      https://raw.githubusercontent.com/tinmancactus/test/main/foo.js
 // @grant        none
 // ==/UserScript==
+(function () {
+  "use strict";
+})();
