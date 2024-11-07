@@ -1,6 +1,8 @@
 (function () {
   "use strict";
 
+  alert("Hello, world!");
+
   // Tampermonkey script
   GM_addStyle(`
       #floating-div {
