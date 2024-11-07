@@ -5,7 +5,6 @@
 // @description  Test loading script from GitHub
 // @author       You
 // @match        *://*/*
-// @require      https://raw.githubusercontent.com/tinmancactus/test/main/hello.js
 // @require      https://raw.githubusercontent.com/tinmancactus/test/main/foo.js
 // @grant        none
 // ==/UserScript==
