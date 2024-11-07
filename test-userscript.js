@@ -6,7 +6,7 @@
 // @author       You
 // @match        *://*/*
 // @require      https://raw.githubusercontent.com/tinmancactus/test/main/foo.js
-// @grant        none
+// @grant        GM_addStyle, GM_addElement
 // ==/UserScript==
 (function () {
   "use strict";
